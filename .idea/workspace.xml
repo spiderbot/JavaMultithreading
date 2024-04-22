@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b81ea1f-2b27-4bfd-b073-9615058c2195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaMultithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/countdownlatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/countdownlatch/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/countdownlatch/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/cyclicbarrier/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/cyclicbarrier/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/reentrantlock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/reentrantlock/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/reentrantlock/ResourceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/reentrantlock/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/waitnotify/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/waitnotify/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/waitnotify/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/waitnotify/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/piyush/joshi/waitnotify/ResourceManager.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2fSH1CvxwExlBiXEkjA8RODoQ05" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.com.piyush.joshi.cyclicbarrier.Main.executor": "Run",
+    "Application.com.piyush.joshi.reentrantlock.Main.executor": "Run",
+    "Application.com.piyush.joshi.waitnotify.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.piyush.joshi.waitnotify" />
+      <recent name="com.piyush.joshi.reentrantlock" />
+      <recent name="com.piyush.joshi.countdownlatch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.piyush.joshi.waitnotify.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.joshi.countdownlatch.Main" />
+      <module name="JavaMultithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.piyush.joshi.countdownlatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.piyush.joshi.cyclicbarrier.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.joshi.cyclicbarrier.Main" />
+      <module name="JavaMultithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.piyush.joshi.cyclicbarrier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.piyush.joshi.reentrantlock.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.joshi.reentrantlock.Main" />
+      <module name="JavaMultithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.piyush.joshi.reentrantlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.piyush.joshi.waitnotify.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.piyush.joshi.waitnotify.Main" />
+      <module name="JavaMultithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.piyush.joshi.waitnotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.piyush.joshi.waitnotify.Main" />
+        <item itemvalue="Application.com.piyush.joshi.reentrantlock.Main" />
+        <item itemvalue="Application.com.piyush.joshi.cyclicbarrier.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b81ea1f-2b27-4bfd-b073-9615058c2195" name="Changes" comment="" />
+      <created>1713787343069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713787343069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/joshi/reentrantlock/ResourceManager.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/joshi/waitnotify/ResourceManager.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/piyush/joshi/waitnotify/ResourceManager.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
