@@ -10,8 +10,8 @@ public class Main {
                 System.out.println("all threads resumed");
             }
         });
-        Task task1 = new Task("task1",barrier);
-        Task task2 = new Task("task2",barrier);
+        Task task1 = new Task("task1", barrier);
+        Task task2 = new Task("task2", barrier);
 
         task1.start();
         task2.start();
